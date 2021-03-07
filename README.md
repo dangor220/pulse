@@ -1,4 +1,4 @@
-#Pulse 
+# Pulse 
 Website written for training purposes.
 
 Technologies used:
